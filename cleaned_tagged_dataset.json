@@ -1,0 +1,805 @@
+[
+    {
+        "question": "How much is the price?",
+        "response": "550",
+        "tag": "general",
+        "images": [
+            "IMG-20230831-WA0016.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Cash bhejvati hun",
+        "response": "Ok maam",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "Centre me happy birthday ki jagah ye XOXO likh dijiyega",
+        "response": "Ok",
+        "tag": "confirmation",
+        "images": [
+            "IMG-20240214-WA0000.jpg (file attached)",
+            "IMG-20240214-WA0001.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "6 baje tak ready kar dijiyega cake",
+        "response": "Ok",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "Or ek tentative amount bata dijiye",
+        "response": "400 around hoga",
+        "tag": "general",
+        "images": [
+            "IMG-20240227-WA0001.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Ya aisa box",
+        "response": "No maam",
+        "tag": "general",
+        "images": [
+            "IMG-20240227-WA0003.jpg (file attached)",
+            "IMG-20240227-WA0004.jpg (file attached)",
+            "IMG-20240227-WA0001.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Ye vala kar dijiye",
+        "response": "Ok",
+        "tag": "confirmation",
+        "images": [
+            "IMG-20240227-WA0003.jpg (file attached)",
+            "IMG-20240227-WA0002.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Or kitne der me ho jaega",
+        "response": "15 min",
+        "tag": "general",
+        "images": [
+            "IMG-20240227-WA0005.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Ho jae to inform kijiye",
+        "response": "IMG-20240227-WA0005.jpg file attached",
+        "tag": "general",
+        "images": [
+            "IMG-20250222-WA0004.jpg (file attached)",
+            "IMG-20240227-WA0005.jpg (file attached)",
+            "IMG-20240525-WA0003.jpg (file attached)",
+            "IMG-20250222-WA0003.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Aisahi chahiye",
+        "response": "Ye bana tha 400 ka apka",
+        "tag": "general",
+        "images": [
+            "IMG-20240227-WA0005.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Yes",
+        "response": "Ye ban jaega 7 tak",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "",
+        "response": "Ready hai",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "Media omitted",
+        "response": "Ok",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "Dono me acha colour jiska lage",
+        "response": "Ye",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "Costing kitni hui",
+        "response": "600",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "Done",
+        "response": "Half kg",
+        "tag": "general",
+        "images": [
+            "IMG-20230227-WA0004.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Haa",
+        "response": "IMG-20230227-WA0004.jpg file attached",
+        "tag": "general",
+        "images": [
+            "IMG-20230227-WA0004.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Okk",
+        "response": "Time batiye",
+        "tag": "general",
+        "images": [
+            "IMG-20230227-WA0004.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Upr me bs picture",
+        "response": "Ok",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "Cherry nahi",
+        "response": "Ok",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "Time hum half nd hour me batate h",
+        "response": "Ok",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "Husband se baat kr k",
+        "response": "Ok mam",
+        "tag": "confirmation",
+        "images": [
+            "IMG-20230227-WA0008.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Pick krne k time payment kr dega wo",
+        "response": "Half pement",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "Kr denge evening me",
+        "response": "Ok",
+        "tag": "confirmation",
+        "images": [
+            "IMG-20230228-WA0016.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Mere pass h ye bt is se ho nahi raha",
+        "response": "IMG-20230228-WA0018.jpg file attached",
+        "tag": "general",
+        "images": [
+            "IMG-20230228-WA0016.jpg (file attached)",
+            "IMG-20230228-WA0018.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Okk",
+        "response": "Ok",
+        "tag": "confirmation",
+        "images": [
+            "IMG-20230228-WA0019.jpg (file attached)",
+            "IMG-20230228-WA0020.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Full amount paid",
+        "response": "Rev",
+        "tag": "general",
+        "images": [
+            "IMG-20230228-WA0020.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Jii",
+        "response": "Done",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "Okk",
+        "response": "IMG-20230301-WA0001.jpg file attached",
+        "tag": "general",
+        "images": [
+            "IMG-20230301-WA0007.jpg (file attached)",
+            "IMG-20230301-WA0001.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Chocolate",
+        "response": "550",
+        "tag": "general",
+        "images": [
+            "IMG-20250224-WA0007.jpg (file attached)",
+            "IMG-20241205-WA0001.jpg (file attached)",
+            "IMG-20241205-WA0000.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Is trh se chahiye",
+        "response": "IMG-20250225-WA0003.jpg file attached",
+        "tag": "general",
+        "images": [
+            "IMG-20250225-WA0003.jpg (file attached)",
+            "IMG-20250225-WA0002.jpg (file attached)",
+            "IMG-20250225-WA0001.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "1 March chahiye",
+        "response": "Ok",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "Payment kaise kru",
+        "response": "IMG-20250117-WA0007.jpg file attached",
+        "tag": "general",
+        "images": [
+            "IMG-20250117-WA0007.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Media omitted",
+        "response": "Ok",
+        "tag": "confirmation",
+        "images": [
+            "IMG-20230301-WA0007.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Aisa he rakhiye",
+        "response": "Ok",
+        "tag": "confirmation",
+        "images": [
+            "IMG-20230301-WA0007.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Sorry ye bolna pad raha",
+        "response": "Maam cake bilkul fresh banta hai on order",
+        "tag": "order_detail",
+        "images": [
+            "IMG-20250301-WA0013.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Please lemme know the flavour options available",
+        "response": "Any flavour can be done",
+        "tag": "order_detail",
+        "images": [
+            "IMG-20210621-WA0000.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Also along with this cake 4 cupcakes in the same flavour and frosting in the same pink colour !",
+        "response": "Can be done",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "The cupcakes in small size",
+        "response": "Also Ill have to update you about the butterflies later as in if the same can be done",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "Yeah that specifically I need them I white only",
+        "response": "We made a similar cake in purple",
+        "tag": "order_detail",
+        "images": []
+    },
+    {
+        "question": "Just gimme a sec",
+        "response": "OK will check",
+        "tag": "confirmation",
+        "images": [
+            "IMG-20210621-WA0001.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Is it ?",
+        "response": "Yes",
+        "tag": "confirmation",
+        "images": [
+            "IMG-20210621-WA0001.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "You see the frosting is in finishing",
+        "response": "Cake 1000-",
+        "tag": "order_detail",
+        "images": []
+    },
+    {
+        "question": "I need layerings like unfinished kind of like same as in this",
+        "response": "Okay",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "Okay and any delivery charges ? Or free shipping M",
+        "response": "Where do u live?",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "Ravindrapuri",
+        "response": "Free shipping then",
+        "tag": "delivery",
+        "images": []
+    },
+    {
+        "question": "Thankyou !",
+        "response": "Okay",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "Yes please confirm",
+        "response": "Yes okay",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "Small cupcakes make then as 5 in quantity",
+        "response": "Thank you",
+        "tag": "thank_you",
+        "images": []
+    },
+    {
+        "question": "Thankyou so much",
+        "response": "Will try the best",
+        "tag": "clarification",
+        "images": []
+    },
+    {
+        "question": "Heii",
+        "response": "Hey. Will try to find the butterflies Tomm. Again",
+        "tag": "clarification",
+        "images": []
+    },
+    {
+        "question": "Like I need to pre order so if you wont get the white ones Ill",
+        "response": "Okay",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "Did you find them ?",
+        "response": "IMG-20210623-WA0007.jpg file attached",
+        "tag": "general",
+        "images": [
+            "IMG-20210623-WA0009.jpg (file attached)",
+            "IMG-20210623-WA0007.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "But these wont be visible on the cake",
+        "response": "These are only available",
+        "tag": "general",
+        "images": [
+            "IMG-20210623-WA0010.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "This works",
+        "response": "Okay",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "And the white sprinklers and pearls ?",
+        "response": "1kg",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "This ?",
+        "response": "Yes available",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "Please provide me with the Phonepe no.",
+        "response": "Yes",
+        "tag": "confirmation",
+        "images": [
+            "IMG-20210619-WA0004.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Also could you do the cake in half kg ?",
+        "response": "Not possible",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "Need two of them",
+        "response": "Wont get the height in 12kg",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "Please confirm so that",
+        "response": "Ok",
+        "tag": "confirmation",
+        "images": [
+            "IMG-20210624-WA0003.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Also flavour would be the same",
+        "response": "Pink frosting?",
+        "tag": "general",
+        "images": [
+            "IMG-20210624-WA0003.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Yes like the light colour frosting",
+        "response": "Ok",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "And also",
+        "response": "Okay",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "Keep the 4 pink",
+        "response": "??",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "And 4 pink cupcakes from these thats it",
+        "response": "Okay",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "This one",
+        "response": "Ok",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "Also",
+        "response": "600 for the cake",
+        "tag": "order_detail",
+        "images": []
+    },
+    {
+        "question": "And this too",
+        "response": "For that fondant will be used",
+        "tag": "clarification",
+        "images": []
+    },
+    {
+        "question": "Its just like 4 people",
+        "response": "In cream it can be done",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "Even in 800 the fondant wont be done ?",
+        "response": "Will confirm from the chef once",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "Lemme know by tonight please",
+        "response": "Fondant cannot be done in half kg cake",
+        "tag": "order_detail",
+        "images": []
+    },
+    {
+        "question": "Can the cake be done in 900 ?",
+        "response": "Will let you know tomorrow is there is some way to get this type of gloss without fondant",
+        "tag": "clarification",
+        "images": []
+    },
+    {
+        "question": "Yeah sure",
+        "response": "It can be done",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "Will give the same right ?",
+        "response": "IMG-20210619-WA0004.jpg file attached",
+        "tag": "general",
+        "images": [
+            "IMG-20210619-WA0004.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Im actually busy with my bday preps",
+        "response": "Ok",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "Do you even make dog cakes ?",
+        "response": "No",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "As im celebrating in afternoon by 1230",
+        "response": "Not possible",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "His birthday is on 6th july",
+        "response": "Okay",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "",
+        "response": "Okay",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "And even John wick !",
+        "response": "You can go for a photo cake",
+        "tag": "order_detail",
+        "images": []
+    },
+    {
+        "question": "Even if you exclude the macarons thats completely fine , and instead you can add the cupcakes !",
+        "response": "Will let you know in sometime",
+        "tag": "clarification",
+        "images": []
+    },
+    {
+        "question": "Hey . Will any of them be possible ?",
+        "response": "Yes can be done",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "Yes please let me know that !",
+        "response": "Color will be in dark brown tone",
+        "tag": "clarification",
+        "images": []
+    },
+    {
+        "question": "Yes instead of that can you add 18th birthday or something ?",
+        "response": "Okay",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "What flavours are available to be made in this cake ?",
+        "response": "Will prefer in chocolate",
+        "tag": "clarification",
+        "images": []
+    },
+    {
+        "question": "And the above jersey tee on that the name would be ansh and the number down their would be 7",
+        "response": "Ok",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "Okay perfect",
+        "response": "Can be extended?",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "The cake cutting would be around 430",
+        "response": "Ok",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "Yes please let me know the total",
+        "response": "1250",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "And how many kgs will this be ?",
+        "response": "You said 1kg",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "Can be done in half kg ?",
+        "response": "No",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "The same phonepe ?",
+        "response": "Yeah",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "Its done",
+        "response": "OK",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "",
+        "response": "Okay",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "I couldnt see",
+        "response": "Nope",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "Dry ones",
+        "response": "Ok",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "What would be the pricing as per the quantity ?",
+        "response": "55 per pax.",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "Are the cupcakes available?",
+        "response": "Yes",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "Price ?",
+        "response": "For what?",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "The cupcakes",
+        "response": "25 each",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "Can this be done ?",
+        "response": "When do you need?",
+        "tag": "general",
+        "images": [
+            "IMG-20210913-WA0000.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Can you do it tomorrow by 4 PM?",
+        "response": "Yes",
+        "tag": "confirmation",
+        "images": [
+            "IMG-20250422-WA0004.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "How much?",
+        "response": "6500 for 5kg",
+        "tag": "general",
+        "images": [
+            "IMG-20250424-WA0000.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Is this 5kg?",
+        "response": "5 kg for 3 tier",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "I want 2 tier only",
+        "response": "Ok then",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "How much will this be?",
+        "response": "4000",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "Done",
+        "response": "IMG-20250422-WA0012.jpg file attached",
+        "tag": "general",
+        "images": [
+            "IMG-20250422-WA0012.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Can I receive this from your gurudham branch?",
+        "response": "You can send half advance on this",
+        "tag": "general",
+        "images": [
+            "IMG-20250422-WA0012.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Yes sure doing it",
+        "response": "Deliver",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "Okay",
+        "response": "And time",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "Venue is Diamond hotel, bhelupur",
+        "response": "Sure",
+        "tag": "general",
+        "images": [
+            "IMG-20250424-WA0001.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Telling you the time in 15 mins",
+        "response": "You deleted this message",
+        "tag": "general",
+        "images": [
+            "IMG-20250424-WA0001.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "Same design but with fresh flowers",
+        "response": "Received",
+        "tag": "general",
+        "images": [
+            "IMG-20250424-WA0001.jpg (file attached)"
+        ]
+    },
+    {
+        "question": "I have entered the time also",
+        "response": "Ok",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "Please let me know once the cake is ready.",
+        "response": "Okay",
+        "tag": "confirmation",
+        "images": []
+    },
+    {
+        "question": "I will do the remaining payment",
+        "response": "Sure",
+        "tag": "general",
+        "images": []
+    },
+    {
+        "question": "Thanks for accepting at such short notice",
+        "response": "Anytime maam",
+        "tag": "general",
+        "images": []
+    }
+]
